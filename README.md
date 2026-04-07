@@ -48,3 +48,40 @@ Conceptual / Theoretical (not yet experimentally validated)
 
 ## Disclaimer
 This project is a theoretical engineering concept. All performance claims require validation through simulation and experimental testing.
+
+
+
+Legal: CIT Order 26-01259 (March 4, 2026) – Nationwide IEEPA tariff refunds are the funding source.
+
+
+
+
+ 
+
+
+
+
+​Maritime: Jag Vasant arrival in Mumbai (April 1, 2026) – Proof of the 95% Hormuz transit collapse.
+
+
+
+
+ 
+
+
+
+
+​Space: Artemis II Record (April 6, 2026) – Orion reached 252,756 miles, validating orbital decoupling.
+
+
+
+
+ 
+
+
+
+
+​Deadline: The Monday Seal (April 7, 2026, 8:00 PM ET) – The expiration of the "Stone Age" ultimatum.
+
+
+
