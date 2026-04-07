@@ -1,0 +1,36 @@
+# Simulation Notes — TriCore V2
+
+## Objective
+To model thermal radiation, TPV conversion efficiency, and gap stability.
+
+---
+
+## Assumptions
+- Temperature range: 1200–1600 K
+- Gap distance: 100–500 nm
+- Ideal vacuum conditions
+- Constant material properties
+
+---
+
+## Key Equations
+
+Thermal radiation:
+P = σT⁴
+
+TPV output:
+P_elec = η · P
+
+---
+
+## Variables to Study
+- Temperature vs power output
+- Gap distance vs efficiency
+- Thermal losses over time
+
+---
+
+## Next Steps
+- Build Python or MATLAB simulation
+- Compare theoretical vs realistic outputs
+- Model thermal expansion effects
