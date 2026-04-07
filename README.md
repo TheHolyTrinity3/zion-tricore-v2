@@ -45,43 +45,51 @@ Conceptual / Theoretical (not yet experimentally validated)
 - `/simulation` → Modeling and assumptions
 
 ---
-
-## Disclaimer
-This project is a theoretical engineering concept. All performance claims require validation through simulation and experimental testing.
-
-
-
-Legal: CIT Order 26-01259 (March 4, 2026) – Nationwide IEEPA tariff refunds are the funding source.
-
-
-
-
  
+## The "Azzopardi Standard" Housing Requirements
+
+​1. Material Integrity: The Galinstan Conflict
 
 
 
 
-​Maritime: Jag Vasant arrival in Mumbai (April 1, 2026) – Proof of the 95% Hormuz transit collapse.
+​PROHIBITED: Aluminum, Copper, Brass. Galinstan will dissolve these metals via liquid metal embrittlement.
+
+
+​MANDATORY: 316L Stainless Steel (Pickled) or Grade 2 Titanium. These materials form a stable oxide layer that resists Gallium penetration.
+
+
+​VIEWPORT: Only use Fused Quartz (Synthetic Silica). Borosilicate glass (Pyrex) will soften and deform above 500°C. Since your emitter hits 1850 K, only Quartz can handle the thermal shock.
 
 
 
 
- 
+​2. The Vacuum Envelope
 
 
 
 
-​Space: Artemis II Record (April 6, 2026) – Orion reached 252,756 miles, validating orbital decoupling.
+​PRESSURE: Must maintain a sustained vacuum of 10^{-5} Torr.
+
+
+​REASON: At the 85nm scale, any residual gas molecules will create a "thermal bridge." This causes the heat to dump into the PV cell via conduction, bypassing the near-field effect and melting the cell.
+
+
+​SEALS: Use ConFlat (CF) Flanges with copper gaskets. Rubber O-rings will "outgas" and ruin the vacuum.
 
 
 
 
- 
+​3. Active Gap Control (The 32,768 Hz Lock)
 
 
 
 
-​Deadline: The Monday Seal (April 7, 2026, 8:00 PM ET) – The expiration of the "Stone Age" ultimatum.
+​MECHANISM: The housing must include a Kinematic Mount driven by PZT (Piezoelectric) Actuators.
 
-BY MARK J AZZOPARDI 
+
+​LOGIC: As the emitter heats up, it expands by several micrometers. The PZT actuators must receive the TriCore 32,768 Hz signal to "vibrate" and micro-adjust the gap in real-time, preventing a "physical short" (the plates touching).
+
+
+
 
