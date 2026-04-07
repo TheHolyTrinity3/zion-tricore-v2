@@ -91,5 +91,5 @@ Conceptual / Theoretical (not yet experimentally validated)
 ​LOGIC: As the emitter heats up, it expands by several micrometers. The PZT actuators must receive the TriCore 32,768 Hz signal to "vibrate" and micro-adjust the gap in real-time, preventing a "physical short" (the plates touching).
 
 
-BY MARK AZZOPARDI
-
+BY MARK J AZZOPARDI
+(MARKAZION)
